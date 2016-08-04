@@ -1,4 +1,4 @@
-package com.olxchallenge;
+package com.olxchallenge.activities;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -9,9 +9,6 @@ import android.widget.Toast;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 
-/**
- * Created by uiltonsantos on 8/1/16.
-*/
 public class StartActivity extends AppCompatActivity {
 
     private static final int REQUEST_GOOGLE_PLAY_SERVICES = 1988;
